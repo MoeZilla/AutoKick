@@ -1,0 +1,23 @@
+{
+  "name": "Auto-Kick",
+  "description": "member join after kick joining mass adder 🤣🤣",
+  "env": {
+    "TOKEN": {
+      "description": "please not token",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "please api id",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "please api hash ",
+      "value": ""
+    }
+  },
+   "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
