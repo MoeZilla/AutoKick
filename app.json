@@ -3,7 +3,7 @@
   "description": "member join after kick joining mass adder 🤣🤣",
   "env": {
     "TOKEN": {
-      "description": "please not token",
+      "description": "please bot token",
       "value": ""
     },
     "APP_ID": {
